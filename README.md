@@ -1,5 +1,6 @@
 # Ex-01-Linux-Commands
-
+## NAME: HARINI R
+## REGISTER NUMBER: 212223100010
 
 ## Aim:
 
